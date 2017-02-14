@@ -13,15 +13,14 @@ author: Fábio Madeira
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
+baseurl: /
+title: Jameson Merkow
+name: Jameson Merkow
+email: jmerkow@gmail.com
+email_full: mailto:jmerkow@gmail.com
+website: jmerkow.github.io
+website_full: https://jmerkow.github.io
+github: jmerkow
 tel: +44 0000 000000
 tel_full: tel:+440000000000
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
