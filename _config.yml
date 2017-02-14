@@ -10,8 +10,8 @@ locale                   : "en"
 title                    : "Jameson Merkow"
 title_separator          : "-"
 name                     : "Jameson Merkow"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Under Construction"
+url                      : https://jmerkow.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Jameson Merkow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Site underconstruction"
   location         : "San Diego, Ca"
-  email            :
+  email            : "jmerkow@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "jmerkow"
   google_plus      :
   keybase          :
   instagram        :
